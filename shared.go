@@ -1,11 +1,6 @@
 package producer_go_rabbit
 
-import (
-	"encoding/json"
-	"fmt"
-	"os"
-	)
 
-type ColicTask struck{
+type ColicTask struct{
 	producer  []string
 }
