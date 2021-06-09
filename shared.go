@@ -1,6 +1,6 @@
 package producer_go_rabbit
 
 
-type ColicTask struct{
+type Colictask struct{
 	producer  []string
 }
