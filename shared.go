@@ -1,6 +1,6 @@
 package producer_go_rabbit
 
-import(
+import (
 	"bytes"
 )
 
